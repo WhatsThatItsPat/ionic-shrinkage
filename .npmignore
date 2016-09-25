@@ -1,0 +1,14 @@
+.idea/
+.vscode/
+.project/
+node_modules/
+typings/
+src/
+
+*.log
+*.tgz
+
+gulpfile.js
+tslint.json
+tsconfig.json
+typings.json
