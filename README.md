@@ -2,6 +2,8 @@
 
 ***ionic-shrinkage*** is a directive for Ionic 2 to cause headers to shrink & reveal, in parallactic fashion, based on user scrolling.
 
+***NOTE:*** This was built alongside Beta.11 of Ionic, and will be updated to Ionic 2.0 when it's final (or perhaps the release candidates, but we'll see).
+
 ![I was in the pool](i-was-in-the-pool.gif)
 
 ## Installation
